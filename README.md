@@ -19,16 +19,17 @@ Tampilan Awal:
 ![IMG-20230606-WA0007](https://github.com/Neliagustin/UAS_PBO_Hangnam_Game/assets/129770165/160d07fb-01d9-40ed-b4d6-59747eacfd5c)
 
 Tampilan Tahap Menebak benar 1 huruf:
+![IMG-20230606-WA0009](https://github.com/Neliagustin/UAS_PBO_Hangnam_Game/assets/129770165/6954cb42-b83c-429b-9fb3-8a9904da779e)
 
 Tampilan tahap menebak benar 2 huruf:
-![IMG-20230606-WA0009](https://github.com/Neliagustin/UAS_PBO_Hangnam_Game/assets/129770165/6954cb42-b83c-429b-9fb3-8a9904da779e)
+![IMG-20230606-WA0006](https://github.com/Neliagustin/UAS_PBO_Hangnam_Game/assets/129770165/38125f40-54a5-4c0c-9338-8579da88f87e)
+
 
 tampilan muncul kata win jika benar:
 ![IMG-20230606-WA0008](https://github.com/Neliagustin/UAS_PBO_Hangnam_Game/assets/129770165/c8b16472-fb47-4123-aa2a-8422124b7393)
 
 
 
-![IMG-20230606-WA0006](https://github.com/Neliagustin/UAS_PBO_Hangnam_Game/assets/129770165/38125f40-54a5-4c0c-9338-8579da88f87e)
 
 tampilan muncul kata lose jika salah:
 ![IMG-20230606-WA0011](https://github.com/Neliagustin/UAS_PBO_Hangnam_Game/assets/129770165/c1b05b4b-3058-46ff-90e1-0a16d60c5974)
