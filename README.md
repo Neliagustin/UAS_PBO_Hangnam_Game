@@ -15,9 +15,17 @@ Ada beberapa fungsi yang didefinisikan, seperti draw_text() untuk menggambar tek
 
 Setelah permainan selesai, pesan "YOU WIN!" atau "YOU LOSE!" ditampilkan selama beberapa detik sebelum program keluar. Terakhir, permainan dimulai dengan memanggil fungsi hangman(), dan ketika permainan selesai, modul Pygame ditutup dengan pygame.quit().
 
+Tampilan Awal:
+![IMG-20230606-WA0007](https://github.com/Neliagustin/UAS_PBO_Hangnam_Game/assets/129770165/160d07fb-01d9-40ed-b4d6-59747eacfd5c)
 
-![IMG-20230606-WA0007](https://github.com/Neliagustin/UAS_PBO_Hangnam_Game/assets/129770165/284888d7-3fa1-4f43-a3b3-2cf9a1d72324)
-![IMG-20230606-WA0011](https://github.com/Neliagustin/UAS_PBO_Hangnam_Game/assets/129770165/44cf36d9-65cd-48d4-a07d-9cb3c17f27f2)
-![IMG-20230606-WA0009](https://github.com/Neliagustin/UAS_PBO_Hangnam_Game/assets/129770165/ea8131dc-e689-4609-a0a1-7380869258dc)
-![IMG-20230606-WA0006](https://github.com/Neliagustin/UAS_PBO_Hangnam_Game/assets/129770165/22c0932d-ad56-4db9-926f-7e37bdff19cd)
-![IMG-20230606-WA0008](https://github.com/Neliagustin/UAS_PBO_Hangnam_Game/assets/129770165/dd18716a-38eb-48bd-a082-1012a5241ccd)
+Tampilan Tahap Menebak benar 1 huruf:
+![IMG-20230606-WA0011](https://github.com/Neliagustin/UAS_PBO_Hangnam_Game/assets/129770165/c1b05b4b-3058-46ff-90e1-0a16d60c5974)
+
+Tampilan tahap menebak benar 2 huruf:
+![IMG-20230606-WA0009](https://github.com/Neliagustin/UAS_PBO_Hangnam_Game/assets/129770165/6954cb42-b83c-429b-9fb3-8a9904da779e)
+
+tampilan muncul kata win jika benar:
+![IMG-20230606-WA0006](https://github.com/Neliagustin/UAS_PBO_Hangnam_Game/assets/129770165/38125f40-54a5-4c0c-9338-8579da88f87e)
+
+tampilan muncul kata lose jika salah:
+![IMG-20230606-WA0008](https://github.com/Neliagustin/UAS_PBO_Hangnam_Game/assets/129770165/c8b16472-fb47-4123-aa2a-8422124b7393)
